@@ -40,3 +40,7 @@ Download `mpi_120.csv`
 Empathatic Reactions Dataset<br>
 https://github.com/wwbp/empathic_reactions/tree/master<br>
 Download `messages.csv`
+
+<br>
+
+This paper was accepted to the International AAAI Conference on Web and Social Media (ICWSM) 2025.
